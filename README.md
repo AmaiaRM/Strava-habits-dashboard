@@ -1,7 +1,7 @@
 # Strava-habits-dashboard
 Visualización personalizada de hábitos deportivos a partir de Strava
 # Descripción: 
-Herramienta interactiva para analizar la evolución deportiva personal más allá de los gráficos básicos de Strava.
+Herramienta interactiva para analizar la evolución deportiva personal a partir de los datos exportados de "Strava", más allá de los gráficos básicos que ofrece la propia aplicación.
 # Objetivos principales:
 - Importar y limpiar datos exportados de Strava.
 - Crear visualizaciones interactivas de evolución y comparación de métricas.
